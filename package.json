@@ -1,0 +1,31 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "exercise in Object Oriented Programming with Test-Driven Development practice",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franamaus/jest-another-RPG.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "oop",
+    "tdd"
+  ],
+  "author": "Theresa Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franamaus/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/franamaus/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
